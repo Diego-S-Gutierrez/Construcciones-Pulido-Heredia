@@ -1,0 +1,62 @@
+/* Estilos para la página de Blog */
+#blog {
+    padding: 100px 0;
+    text-align: center;
+}
+
+#blog h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.articulo {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.articulo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.articulo h3 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.articulo p {
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.articulo a {
+    color: #ff8c00;
+    text-decoration: none;
+}
+
+.articulo a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* ... (otros estilos generales) ... */

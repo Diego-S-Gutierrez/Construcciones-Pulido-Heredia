@@ -1,0 +1,39 @@
+#servicios {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.servicio {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.servicio:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.servicio h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.servicio p {
+    color: #777;
+}
+
+/* Estilos para enlaces de servicios */
+.servicio a {
+    color: #ff8c00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.servicio a:hover {
+    text-decoration: underline;
+}

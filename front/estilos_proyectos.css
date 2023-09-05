@@ -1,0 +1,20 @@
+/* Estilos para la sección de proyectos */
+#proyectos {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.proyecto {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.proyecto img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ... (resto de los estilos) ... */
